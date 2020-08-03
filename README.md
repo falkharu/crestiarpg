@@ -36,6 +36,4 @@ Bitte beachten das es sich hier um den Standartprefix (**!**) für Commands vom 
 Command & Alias | Beschreibung | Benutzung | Berechtigung
 ------------ | -------------
 !play | Erstellt einen Account/Charakter für den Nutzer | !play | Jeder
-!profile
-!p | Zeigt die eigene Statistik oder die von anderen | !profile
-!profile @user | Jeder
+!profile <br>!p | Zeigt die eigene Statistik oder die von anderen | !profile <br>!profile @user | Jeder
