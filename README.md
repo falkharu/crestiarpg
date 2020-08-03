@@ -4,8 +4,6 @@ Crestia ist ein Deutschsprachiger Chatbasierter RPG Bot für Discord.
 
 Zur Zeit befindet sich dieser in der Entwicklung.
 
-NOCH AUSSTEHEND: In Zukunft soll eine Website mit Statistiken dazu kommen und eine Möglichkeit verschiedene dinge zu Steuern.
-
 
 ## Features:
 
