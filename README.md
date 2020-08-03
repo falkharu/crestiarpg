@@ -41,13 +41,23 @@ Bitte beachten das es sich hier um den Standartprefix (**!**) für Commands vom 
   <th>
     Beschreibung
     </th>
+    <th>
+    Benutzung
+    </th>
+    <th>
+    Berechtigung
+    </th>
   </tr>
   <tr>
-  <td>1</td>
-  <td>2</td>
+  <td>!play</td>
+  <td>Erstellt einen Account/Charakter für den Nutzer</td>
+    <td>!play</td>
+    <td>Jeder</td>
+  </tr>
+  <tr>
+  <td>!profile <br/>!p</td>
+  <td>Zeigt die eigene Statistik oder die von anderen</td>
+    <td>!profile <br/>!profile @user</td>
+    <td>Jeder</td>
   </tr>
 </table>
-Command & Alias | Beschreibung | Benutzung | Berechtigung
------------- | -------------
-!play | Erstellt einen Account/Charakter für den Nutzer | !play | Jeder
-!profile !p | Zeigt die eigene Statistik oder die von anderen | !profile !profile @user | Jeder
