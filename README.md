@@ -33,6 +33,13 @@ Dies sind die momentanen Grundfeatures die zum jetzigen Zeitpunkt (03.08.2020) e
 ## Commands:
 Bitte beachten das es sich hier um den Standartprefix (**!**) für Commands vom Bot handelt welcher Optional gewechselt werden kann.
 
+<table>
+  <tr>
+    YEIT
+  </tr>
+  <td>1</td>
+  <td>2</td>
+</table>
 Command & Alias | Beschreibung | Benutzung | Berechtigung
 ------------ | -------------
 !play | Erstellt einen Account/Charakter für den Nutzer | !play | Jeder
