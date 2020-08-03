@@ -24,12 +24,18 @@ NOCH AUSSTEHEND: In Zukunft soll eine Website mit Statistiken dazu kommen und ei
 - Custom Willkommnesnachrichten
 - ...mehr kommt noch
 
+# Bot
+- Ändern des Commandprefix
+
 
 Dies sind die momentanen Grundfeatures die zum jetzigen Zeitpunkt (03.08.2020) enthalten sind.
 
 ## Commands:
+Bitte beachten das es sich hier um den Standartprefix (**!**) für Commands vom Bot handelt welcher Optional gewechselt werden kann.
 
-First Header | Second Header
+Command & Alias | Beschreibung | Benutzung | Berechtigung
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+!play | Erstellt einen Account/Charakter für den Nutzer | !play | Jeder
+!profile
+!p | Zeigt die eigene Statistik oder die von anderen | !profile
+!profile @user | Jeder
