@@ -10,23 +10,23 @@ NOCH AUSSTEHEND: In Zukunft soll eine Website mit Statistiken dazu kommen und ei
 ## Features:
 
 # RPG
-- [x] Serverübergreifende Datenbank für die Spieler
-- [ ] Levelingsystem
-- [ ] Spielerinventar
-- [ ] Itemshop
-- [ ] Monster Raids
-- [ ] Skillsystem
-- [ ] Spieler Statsystem
-- [x] Währungssystem
+- [x]  Serverübergreifende Datenbank für die Spieler
+- [ ]  Levelingsystem
+- [ ]  Spielerinventar
+- [ ]  Itemshop
+- [ ]  Monster Raids
+- [ ]  Skillsystem
+- [ ]  Spieler Statsystem
+- [x]  Währungssystem
 - ...mehr kommt noch
 
 # Server
-- [ ] Reaction Role System
-- [x] Custom Willkommnesnachrichten
+- [ ]  Reaction Role System
+- [x]  Custom Willkommnesnachrichten
 - ...mehr kommt noch
 
 # Bot
-- [x] Ändern des Commandprefix
+- [x]  Ändern des Commandprefix
 
 
 Dies sind die momentanen Grundfeatures die zum jetzigen Zeitpunkt (03.08.2020) enthalten sind.
