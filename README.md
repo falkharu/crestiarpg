@@ -11,17 +11,17 @@ NOCH AUSSTEHEND: In Zukunft soll eine Website mit Statistiken dazu kommen und ei
 
 # RPG
 - [x] Serverübergreifende Datenbank für die Spieler
-- []Levelingsystem
-- []Spielerinventar
-- []Itemshop
-- []Monster Raids
-- []Skillsystem
-- []Spieler Statsystem
+- [ ] Levelingsystem
+- [ ] Spielerinventar
+- [ ] Itemshop
+- [ ] Monster Raids
+- [ ] Skillsystem
+- [ ] Spieler Statsystem
 - [x] Währungssystem
 - ...mehr kommt noch
 
 # Server
-- [] Reaction Role System
+- [ ] Reaction Role System
 - [x] Custom Willkommnesnachrichten
 - ...mehr kommt noch
 
