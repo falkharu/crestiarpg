@@ -10,30 +10,31 @@ NOCH AUSSTEHEND: In Zukunft soll eine Website mit Statistiken dazu kommen und ei
 ## Features:
 
 # RPG
-- Serverübergreifende Datenbank für die Spieler
-- Levelingsystem
-- Spielerinventar
-- Itemshop
-- Monster Raids
-- Skillsystem
-- Spieler Statsystem
+- [x] Serverübergreifende Datenbank für die Spieler
+- [ ]Levelingsystem
+- [ ]Spielerinventar
+- [ ]Itemshop
+- [ ]Monster Raids
+- [ ]Skillsystem
+- [ ]Spieler Statsystem
+- [x] Währungssystem
 - ...mehr kommt noch
 
 # Server
-- Reaction Role System
-- Custom Willkommnesnachrichten
+- [ ] Reaction Role System
+- [x] Custom Willkommnesnachrichten
 - ...mehr kommt noch
 
 # Bot
-- Ändern des Commandprefix
+- [x] Ändern des Commandprefix
 
 
 Dies sind die momentanen Grundfeatures die zum jetzigen Zeitpunkt (03.08.2020) enthalten sind.
 
 ## Commands:
-Bitte beachten das es sich hier um den Standartprefix (**!**) für Commands vom Bot handelt welcher Optional gewechselt werden kann.
-"<" und ">" sind nur Platzhalter um einen Parameter eines Commands zu zeigen. Diese werden im Command nicht genutzt (siehe Benutzung).
-Die Parameter bei "Parameter" sind Optional!
+Bitte beachten das es sich hier um den Standartprefix (**!**) für Commands vom Bot handelt welcher Optional gewechselt werden kann.<br/>
+"<" und ">" sind nur Platzhalter um einen Parameter eines Commands zu zeigen. Diese werden im Command nicht genutzt (siehe Benutzung).<br/>
+Die Parameter bei "Parameter" sind Optional!<br/><br/>
 
 <table>
   <tr>
