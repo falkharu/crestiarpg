@@ -34,9 +34,9 @@ Dies sind die momentanen Grundfeatures die zum jetzigen Zeitpunkt (03.08.2020) e
 Bitte beachten das es sich hier um den Standartprefix (**!**) für Commands vom Bot handelt welcher Optional gewechselt werden kann.
 
 <table>
-  <tr>
+  <th>
     YEIT
-  </tr>
+  </th>
   <td>1</td>
   <td>2</td>
 </table>
