@@ -9,7 +9,7 @@ Zur Zeit befindet sich dieser in der Entwicklung.
 
 # RPG
 - [x] &nbsp;Serverübergreifende Datenbank für die Spieler
-- [ ] &nbsp;Levelingsystem
+- [x] &nbsp;Levelingsystem
 - [ ] &nbsp;Spielerinventar
 - [ ] &nbsp;Itemshop
 - [ ] &nbsp;Monster Raids
