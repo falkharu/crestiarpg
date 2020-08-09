@@ -27,8 +27,6 @@ Zur Zeit befindet sich dieser in der Entwicklung.
 - [x] &nbsp;Ändern des Commandprefix
 
 
-Dies sind die momentanen Grundfeatures die zum jetzigen Zeitpunkt (03.08.2020) enthalten sind.
-
 ## Commands:
 Bitte beachte das es sich hier um den Standartprefix (**!**) für Commands vom Bot handelt welcher Optional gewechselt werden kann.<br/>
 "<" und ">" sind nur Platzhalter um einen Parameter eines Commands zu zeigen. Diese werden im Command nicht genutzt (siehe Benutzung).<br/>
