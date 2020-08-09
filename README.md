@@ -19,7 +19,7 @@ Zur Zeit befindet sich dieser in der Entwicklung.
 - ...mehr kommt noch
 
 # Server
-- [ ] &nbsp;Reaction Role System
+- [x] &nbsp;Reaction Role System
 - [x] &nbsp;Custom Willkommnesnachrichten
 - ...mehr kommt noch
 
@@ -30,7 +30,7 @@ Zur Zeit befindet sich dieser in der Entwicklung.
 Dies sind die momentanen Grundfeatures die zum jetzigen Zeitpunkt (03.08.2020) enthalten sind.
 
 ## Commands:
-Bitte beachten das es sich hier um den Standartprefix (**!**) für Commands vom Bot handelt welcher Optional gewechselt werden kann.<br/>
+Bitte beachte das es sich hier um den Standartprefix (**!**) für Commands vom Bot handelt welcher Optional gewechselt werden kann.<br/>
 "<" und ">" sind nur Platzhalter um einen Parameter eines Commands zu zeigen. Diese werden im Command nicht genutzt (siehe Benutzung).<br/>
 Die Parameter bei "Parameter" sind Optional!<br/><br/>
 
