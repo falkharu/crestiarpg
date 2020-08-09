@@ -11,7 +11,7 @@ Zur Zeit befindet sich dieser in der Entwicklung.
 - [x] &nbsp;Serverübergreifende Datenbank für die Spieler
 - [x] &nbsp;Levelingsystem
 - [x] &nbsp;Spielerinventar
-- [ ] &nbsp;Itemshop
+- [x] &nbsp;Itemshop
 - [ ] &nbsp;Monster Raids
 - [ ] &nbsp;Skillsystem
 - [ ] &nbsp;Spieler Statsystem
