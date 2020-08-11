@@ -92,4 +92,62 @@ Die Parameter bei "Parameter" sind Optional!<br/><br/>
     <td>{0} = Servername<br/>{1} = Username</td>
     <td>Ersteller</td>
   </tr>
+  </tr>
+  <tr>
+  <td>!inv</td>
+  <td>Öffnet das Inventar</td>
+    <td>!inv</td>
+    <td></td>
+    <td>Jeder</td>
+  </tr>
+  </tr>
+  <tr>
+  <td>!itemshop</td>
+  <td>Öffnet den Itemshop</td>
+    <td>!itemshop</td>
+    <td></td>
+    <td>Jeder</td>
+  </tr>
+  <tr>
+  <td>!togglebotchannel</td>
+  <td>Stellt ein ob der Bot nur in einem bestimmten Text Channel reagiert</td>
+    <td>!togglebotchannel #channel<br/>!togglebotchannel</td>
+    <td></td>
+    <td>Ersteller</td>
+  </tr>
+  <tr>
+  <td>!resetsettings</td>
+  <td>Setzt die Einstellungen auf Standart zurück</td>
+    <td>!resetsettings</td>
+    <td></td>
+    <td>Ersteller</td>
+  </tr>
+  <tr>
+  <td>!rrnew</td>
+  <td>Erstellt eine neue Reaction Role Liste</td>
+    <td>!rrnew Name</td>
+    <td></td>
+    <td>Administrator</td>
+  </tr>
+  <tr>
+  <td>!rrroleadd</td>
+  <td>Fügt eine Rolle zu einer Reaction Role Liste hinzu</td>
+    <td>!rrroleadd Listenname Rollenname</td>
+    <td></td>
+    <td>Administrator</td>
+  </tr>
+  <tr>
+  <td>!rrroleremove</td>
+  <td>Entfernt eine Rolle aus einer Reaction Role Liste</td>
+    <td>!rrroleremove Listenname Rollenname</td>
+    <td></td>
+    <td>Administrator</td>
+  </tr>
+  <tr>
+  <td>!rrset</td>
+  <td>Setzt eine Reaction Role Liste in den Channel wo der Command ausgeführt wurde</td>
+    <td>!rrset Listenname</td>
+    <td></td>
+    <td>Administrator</td>
+  </tr>
 </table>
