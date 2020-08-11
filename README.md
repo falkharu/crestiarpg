@@ -16,12 +16,11 @@ Zur Zeit befindet sich dieser in der Entwicklung.
 - [ ] &nbsp;Skillsystem
 - [ ] &nbsp;Spieler Statsystem
 - [x] &nbsp;Währungssystem
-- ...mehr kommt noch
 
 # Server
 - [x] &nbsp;Reaction Role System
 - [x] &nbsp;Custom Willkommnesnachrichten
-- ...mehr kommt noch
+- [x] &nbsp;Custom Bot Channel
 
 # Bot
 - [x] &nbsp;Ändern des Commandprefix
