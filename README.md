@@ -17,6 +17,8 @@ Zur Zeit befindet sich dieser in der Entwicklung.
 - [ ] &nbsp;Spieler Statsystem
 - [x] &nbsp;Währungssystem
 - [x] &nbsp;Gruppensystem
+- [ ] &nbsp;Klassen
+- [x] &nbsp;Spielereffekte (EP Booster)
 
 # Server
 - [x] &nbsp;Reaction Role System
