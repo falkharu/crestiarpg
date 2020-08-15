@@ -16,6 +16,7 @@ Zur Zeit befindet sich dieser in der Entwicklung.
 - [ ] &nbsp;Skillsystem
 - [ ] &nbsp;Spieler Statsystem
 - [x] &nbsp;Währungssystem
+- [x] &nbsp;Gruppensystem
 
 # Server
 - [x] &nbsp;Reaction Role System
